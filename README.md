@@ -36,8 +36,7 @@ Para entender mais sobre as regras da Receita Federal e como organizar seus inve
 Aproveite outras ferramentas gratuitas do nosso portal:
 
 * 🧮 [**Calculadora IR Ações**](https://www.darf6015.com.br): Ferramenta completa para calcular seu Imposto de Renda em renda variável.
-* 🌍 [**Cotações Bolsas Mundiais**](https://www.darf6015.com.br/cotacoes-bolsas-mundiais-em-tempo-real/): Acompanhe os principais mercados globais em tempo real.
-
+  
 ---
 
 ## 📄 Licença
